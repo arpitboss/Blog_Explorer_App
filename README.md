@@ -7,7 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Code Style and Guidelines](#codestyle)
+- [Code Style and Guidelines](#code-style-and-guidelines)
 
 ## Description
 
